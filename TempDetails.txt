@@ -1,0 +1,7 @@
+Visa Platinum,Bank of America,2023-05-15,150.00,Off,2023-06-15
+Mastercard Gold,CitiBank,2023-05-14,75.50,Off,2023-06-20
+Visa Platinum,Bank of America,2023-05-15,150.00,Off,2023-06-15
+Mastercard Gold,Citibank,2023-05-18,200.00,Off,2023-07-01
+Amex Rewards,Chase,2023-05-20,75.50,On,2023-06-20
+Discover Cashback,Discover,2023-05-22,100.00,Off,2023-06-30
+Visa Classic,Wells Fargo,2023-05-25,50.00,On,2023-06-25
